@@ -12,7 +12,7 @@ Three skills that teach your agent how to get useful web data with Geonode.
 
 ## Install
 
-Clone this repository (GitHub access is required while it is private):
+Clone this repository:
 
 ```sh
 git clone https://github.com/geonodecom/skills.git geonode-skills
